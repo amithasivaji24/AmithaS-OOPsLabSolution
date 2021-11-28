@@ -1,2 +1,2 @@
 # AmithaS-OOPsLabSolution
-Lab Session Assessment
+This repository has been created for OOPs Lab Session Assessments.
