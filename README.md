@@ -11,3 +11,17 @@ d)	Display the generated credentials
 e)	Use parameterized constructor of class Employee, to pass firstName, lastName.
 f)	Create a separate CredentialService which will have generatePassword, generateEmailAddress, & showCredentials method.
 
+Sample output:
+
+Please enter the department from the following
+1. Technical
+2. Admin
+3. Human Resource
+4. Legal
+
+1
+
+Dear Amitha your generated credentials are as follows
+Email -->  amithasivaji@tech.abcpvtltd.com
+Password --> 181E@wFT
+
